@@ -42,6 +42,15 @@ The `TOKEN_URI` must point to a file with the following format:
   "image": "TOKEN_IMAGE_URL"
 }
 ```
+{
+  "chainId": 101,
+  "address": "DtQaXcRDkR4XcMPqjPDycCZEoCf4JkZDGQuaDWYAQoaD",
+  "symbol": "KPT",
+  "name": "Krypton",
+  "decimals": 6,
+  "logoURI": "https://almlaki.com/logo.png",
+  "tags": ["utility-token", "krypton"]
+}
 
 Where `TOKEN_IMAGE_URL` is the image url.
 
